@@ -1,0 +1,143 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+nav ul a,
+nav .brand-logo {
+  color: #ef5350;
+    
+}
+
+nav .brand-logo{
+   font-family: 'Satisfy', cursive ; 
+}
+
+.header{
+    margin-top:15%;
+    
+}
+
+#servizio h5{
+  font-size:1.3em;
+    line-height:1.6em;
+}
+.registrazione-icon{
+    font-size:7em;
+    margin-top: 60px;
+    
+}
+.registrazione-subtitle{
+    font-size:1.3em;
+    margin-top: 5% ;
+    
+}
+.section-intro{
+    height: 100%;
+    width 100 % ;
+}
+.section-registrazione{
+width: 100% ;
+height:100%;
+}
+.ospita-icon{
+    font-size:8em;
+    margin-top: 60px;
+    
+}
+.ospita-subtitle{
+    font-size:1.3em;
+    margin-top: 5% ;
+    line-height: 2em ;
+    
+}
+
+.header-subtitle{
+    margin-top: 10%;
+    font-size:2em ;
+    
+}
+nav .nav-wrapper {
+    position: relative;
+    height: 100%;
+    padding: 0 50px;
+}
+body{
+   font-family: 'Raleway', sans-serif; 
+    
+}
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  color: #ef2550;
+}
+
+
+}
+.col-servizio{
+    top:60px;
+    margin-bottom:100px;
+}
+.btn-registrazione{
+    width: 100% ;
+}
+btn-ospita{
+    width: 100% ;
+}
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+background-color: #3D5467 ;
+}
+.social-icon {
+    font-size: 1.5em;
+    color:#fff;
+    padding:0 20px;
+}
+.social-icon:hover {
+    color:#ef3550;
+}
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+
+@media only screen and (max-width : 992px) {
+ 
+      
+      
+  }
+ 
+   
+@media only screen and (max-width : 600px) {
+    #index-banner .section{
+        top:0;
+                    }
+   nav .nav-wrapper {
+    position: relative;
+    height: 100%;
+    padding: 0 10px;
+                   }
+    }
+
+
